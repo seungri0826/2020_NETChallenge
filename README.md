@@ -14,5 +14,5 @@
 
 ### /var/www/html 내 php 코드 (compare_box)
 - [LINK](https://github.com/seungri0826/wbb_PHP)
-- 엣지 AI 구현을 위한 php 코드
+- Edge AI 구현을 위한 php 코드
 - Darknet 실행, 라즈베리파이 CCTV로부터 사진 전송 받기, 도난 상황 감지 알고리즘 실행
