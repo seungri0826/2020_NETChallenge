@@ -16,7 +16,7 @@
 <br>
 
 ## Darknet 수정 코드
-- [LINK](https://github.com/seungri0826/wbb_Darknet)
+- [GITHUB REPO](https://github.com/seungri0826/wbb_Darknet)
 - Real time object detection을 위한 Darknet 프레임워크 응용
 - 택배 상자 이미지의 학습은 HPC에서 진행하였고, 그에 따른 `.weights` 파일은 용량 문제로 업로드하지는 못함
 - 주요 수정 기능
@@ -26,7 +26,7 @@
 <br>
 
 ## /var/www/html 내 php 코드 (compare_box)
-- [LINK](https://github.com/seungri0826/wbb_PHP)
+- [GITHUB REPO](https://github.com/seungri0826/wbb_PHP)
 - Edge AI 구현을 위한 php 코드
 - Darknet 실행, 라즈베리파이 CCTV로부터 사진 전송 받기, 도난 상황 감지 알고리즘 실행
 
