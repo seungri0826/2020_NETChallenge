@@ -1,10 +1,12 @@
 # 2020_NETChallenge
 2020 NET 챌린지 시즌 7 기록
+
+## 프로젝트 개요
 - __팀명__: 왕밤빵
 - __주제__: CCTV를 이용한 택배 도난 방지 시스템
 - __수상__: 금상(한국지능정보사회진흥원장상), 특별상(통신사상, LGU+)
 
-### Darknet 수정 코드
+## Darknet 수정 코드
 - [LINK](https://github.com/seungri0826/wbb_Darknet)
 - Real time object detection을 위한 Darknet 프레임워크 응용
 - 택배 상자 이미지의 학습은 HPC에서 진행하였고, 그에 따른 `.weights` 파일은 용량 문제로 업로드하지는 못함
@@ -12,7 +14,10 @@
   - 지정된 위치의 CCTV 이미지(일정 시간마다 업데이트 됨)를 자동으로 불러와 object detection 수행
   - CCTV 이미지 속의 택배 상자 개수를 검출하여 파일 입출력으로 내보냄
 
-### /var/www/html 내 php 코드 (compare_box)
+## /var/www/html 내 php 코드 (compare_box)
 - [LINK](https://github.com/seungri0826/wbb_PHP)
 - Edge AI 구현을 위한 php 코드
 - Darknet 실행, 라즈베리파이 CCTV로부터 사진 전송 받기, 도난 상황 감지 알고리즘 실행
+
+## 전체 구조
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01cb4a71-9e37-46df-b4d5-bf421b42da1a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T054909Z&X-Amz-Expires=86400&X-Amz-Signature=294c0df65d361776c42432c94ea50526b3b8a0580f4d976be0a91d73925a9026&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
