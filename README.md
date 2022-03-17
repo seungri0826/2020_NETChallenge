@@ -31,8 +31,13 @@
 
 <br>
 
-## 전체 구조
+## 동작 흐름
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01cb4a71-9e37-46df-b4d5-bf421b42da1a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T054909Z&X-Amz-Expires=86400&X-Amz-Signature=294c0df65d361776c42432c94ea50526b3b8a0580f4d976be0a91d73925a9026&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+<br>
+
+## 시스템 구성
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1a6107c-1cf3-4fc3-a018-2d1d32165776/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T102254Z&X-Amz-Expires=86400&X-Amz-Signature=03996bf728d3afaf71c236b74c131539557f34754d3ce5a1f0750be62ebdea64&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 <br>
 
