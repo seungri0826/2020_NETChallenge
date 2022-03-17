@@ -32,14 +32,14 @@
 <br>
 
 ## 동작 흐름
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01cb4a71-9e37-46df-b4d5-bf421b42da1a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T054909Z&X-Amz-Expires=86400&X-Amz-Signature=294c0df65d361776c42432c94ea50526b3b8a0580f4d976be0a91d73925a9026&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](https://user-images.githubusercontent.com/43572543/158789823-2252186f-ee94-4a2e-88d3-73c02efb31d4.png)
 
 <br>
 
 ## 시스템 구성
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1a6107c-1cf3-4fc3-a018-2d1d32165776/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T102254Z&X-Amz-Expires=86400&X-Amz-Signature=03996bf728d3afaf71c236b74c131539557f34754d3ce5a1f0750be62ebdea64&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](https://user-images.githubusercontent.com/43572543/158789942-16b22d97-79d1-49a3-9cb0-c1411de34872.png)
 
 <br>
 
 ## 도난 상황 발생 시 동작
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9b0abeba-b6aa-4e83-9114-4df1d76502cd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220317T063852Z&X-Amz-Expires=86400&X-Amz-Signature=eda00363ba4fb79cfeaa765aae2b4fd0823075627bdc166ff7f6a5f4c58908e2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](https://user-images.githubusercontent.com/43572543/158790025-27e199c7-ceec-4243-a5d9-d94f22dd6d6b.png)
